@@ -17,9 +17,9 @@ strong {
     font-family: Palatino, Georgia, serif;
 }
 
-h1, h2, h3, h4, h5, h6, th, dt {
-    font-family: Palatino, Georgia, serif;
-    font-size: 120%;
+h1, h2, h3, h4, h5, h6, th {
+    font-family: "IM Fell DW Pica SC", Palatino, Georgia, serif;
+    font-size: 150%;
     margin-top: 1em;
     color: #000;
 }
@@ -38,7 +38,6 @@ h2 {
 .logo {
     font-size: 155px;
     line-height: 0;
-    text-align: center;
     font-weight: 300;
     margin: 0 0 .7em;
     border-top: none;
@@ -46,6 +45,12 @@ h2 {
     .logo a {
         color: #000;
         text-decoration: none;
+    }
+    .logo span:first-of-type {
+        color: #444;
+    }
+    .logo span:last-of-type {
+        color: #777;
     }
 
 dd ul {
@@ -73,6 +78,8 @@ ul {
 .valeurs {
 }
     .valeurs dt {
+        font-family: "IM Fell DW Pica SC", Palatino, Georgia, serif;
+        font-size: 120%;
         float: left;
         width: 25%;
         margin: 0;
@@ -89,6 +96,7 @@ ul {
 .approche {
 }
     .approche dt {
+        font-family: Palatino, Georgia, serif;
         font-weight: bold;
         font-size: 100%;
     }
@@ -179,7 +187,6 @@ footer p {
         display: block;
         float: none;
         width: auto;
-        min-height: auto;
         padding: 0;
         margin: 0 0 1em;
     }

@@ -7,6 +7,7 @@
     <title>{% block page_title %}Accueil{% endblock page_title %} | scopyleft</title>
     <meta name="description" content="scopyleft accompagne vos projets Web dans une démarche de qualité">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link href="http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica+SC" rel="stylesheet" type="text/css">
     {%- assets filter="cssmin", output="packed.css",
         "css/styles.css"
     %}
@@ -16,7 +17,7 @@
 <body>
     <a name="top"></a>
     <header>
-        <h1 class="logo"><a href="/">scopyleft</a></h1>
+        <h1 class="logo"><a href="/"><span>scop</span>y<span>left</span></a></h1>
     </header>
 
     {% block content %}{% endblock content %}
