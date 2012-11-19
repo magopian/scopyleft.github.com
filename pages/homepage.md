@@ -3,25 +3,25 @@ author: Nicolas
 
 est une coopérative accompagnatrice de projets Web qui propose de vous aider dans la conception de votre prochaine application. Nous savons faire des choses, et nous aimons les faire bien, *avec vous*.
 
-## <a name="manifeste"></a>Manifeste
+## <a id="manifeste"></a>Manifeste
 
 <dl class="valeurs">
-  <dt><a name="honneteté"></a>Honnêteté</dt>
+  <dt><a id="honneteté"></a>Honnêteté</dt>
   <dd>On dit ce que l’on pense, on fait ce que l’on dit et on n'essaye pas de <em><a href="/honnetete/">faire les malins</a></em>.</dd>
 
-  <dt><a name="respect"></a>Respect</dt>
+  <dt><a id="respect"></a>Respect</dt>
   <dd>On fait confiance à nos interlocuteurs par défaut, et on demande la réciproque.</dd>
 
-  <dt><a name="courage"></a>Courage</dt>
+  <dt><a id="courage"></a>Courage</dt>
   <dd>On assume notre éthique, nos succès, nos doutes et nos échecs. Mieux, on les partage avec vous.</dd>
 
-  <dt><a name="bien-être"></a>Bien-être</dt>
+  <dt><a id="bien-être"></a>Bien-être</dt>
   <dd>On abhorre le stress. On croit que le plaisir est un <a href="/bien-etre/">facteur essentiel d’équilibre et de réussite</a>.</dd>
 
-  <dt><a name="partage"></a>Partage</dt>
+  <dt><a id="partage"></a>Partage</dt>
   <dd>On croit que la générosité et l’Open Source sont facteurs de progrès social et économique. Si si.</dd>
 
-  <dt><a name="transparence"></a>Transparence</dt>
+  <dt><a id="transparence"></a>Transparence</dt>
   <dd>On ne vous cache <a href="https://github.com/scopyleft" title="Compte github Scopyleft">rien</a>, pas même <a href="https://docs.google.com/spreadsheet/ccc?key=0Al7gTbdJfUcPdFVkZ1BXdVRuMTlocFJWYjdUeU9MTmc#gid=14">la compta</a>. On vous dit <a href="/transparence/">pourquoi</a>.</dd>
 </dl>
 
@@ -29,13 +29,13 @@ est une coopérative accompagnatrice de projets Web qui propose de vous aider da
 
 D’une façon générale, nous aspirons à établir des rapports de collaboration équitables, plaisants, sereins et maintenables indéfiniment.
 
-## <a name="competences"></a>Compétences et appétences
+## <a id="competences"></a>Compétences et appétences
 
 * On sait fabriquer des applications Web et mobile qui fonctionnent bien. On aime le beau code et se sentir utiles sur des projets qui le sont aussi ;
 * On organise des ateliers méthodologiques et techniques pour partager notre connaissance de trucs rigolos et pratiques comme [Scrum](http://fr.wikipedia.org/wiki/Scrum_(m%C3%A9thode)), [Kanban](http://fr.wikipedia.org/wiki/Kanban), [XP](http://fr.wikipedia.org/wiki/Extreme_programming), [Python](http://python.org/), [Django](http://djangoproject.com/), [Flask](http://flask.pocoo.org/), [HTML5](http://www.html5rocks.com/fr/) ou [CasperJS](http://casperjs.org/) ;
 * On vous aide éventuellement à mettre en place des choses compliquées, mais on réfléchit ensemble pour voir si ça serait pas mieux que ça reste simple et focalisé sur la valeur tangible qu'apporte le produit aux utilisateurs.
 
-## <a name="approche"></a>Par exemple
+## <a id="approche"></a>Par exemple
 
 <dl class="approche">
   <dt>Q: J’ai un super projet, en voici le cahier des charges de 400 pages</dt>
@@ -76,19 +76,19 @@ D’une façon générale, nous aspirons à établir des rapports de collaborati
   <dd>R: Non.</dd>
 </dl>
 
-## <a name="notre-equipe"></a>Le ScopyCrew
+## <a id="notre-equipe"></a>Le ScopyCrew
 
 <ul class="equipe">
-  <li><img src="/static/images/nicolas-perriault.jpg">
+  <li><img src="/static/images/nicolas-perriault.jpg" alt="Avatar Nicolas">
     <a href="https://nicolas.perriault.net/">Nicolas <q>n1k0</q> Perriault</a>
   </li>
-  <li><img src="/static/images/vincent-agnano.jpg">
+  <li><img src="/static/images/vincent-agnano.jpg" alt="Avatar Vincent">
     <a href="http://vinyll.github.com/">Vincent <q>vinyll</q> Agnano</a>
   </li>
-  <li><img src="/static/images/stephane-langlois.png">
+  <li><img src="/static/images/stephane-langlois.png" alt="Avatar Stéphane">
     <a href="m&#x61;ilto:stephane.langlois%40scopyleft&#46;fr">Stéphane <q>pointbar</q> Langlois</a>
   </li>
-  <li><img src="/static/images/david-larlet.jpg">
+  <li><img src="/static/images/david-larlet.jpg" alt="Avatar David">
     <a href="https://larlet.fr/david/">David <q>biologeek</q> Larlet</a>
   </li>
 </ul>
