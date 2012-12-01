@@ -1,7 +1,7 @@
 title: Accueil
 author: Nicolas
 
-est une coopérative accompagnatrice de projets Web qui propose de vous aider dans la conception de votre prochaine application. Nous savons faire des choses, et nous aimons les faire bien, *avec vous*.
+est une coopérative accompagnatrice de projets Web qui propose de vous aider dans la conception de votre prochaine application. On sait faire des choses, et on aime les faire bien, *avec vous*.
 
 ## <a id="manifeste"></a>Manifeste
 
@@ -41,8 +41,8 @@ D’une façon générale, nous aspirons à établir des rapports de collaborati
   <dt>Q: J’ai un super projet, en voici le cahier des charges de 400 pages</dt>
   <dd>R: Humph, merci beaucoup (waouh, il est lourd !) En fait on ne travaille généralement pas avec un cahier des charges, mais plutôt avec des <em>user stories</em>, un <em>backlog</em>, des <em>tests d’acceptance</em>… Hé, ne vous enfuyez pas, c’est très simple et on peut vous expliquer ça très facilement si vous nous en laissez la chance :)</dd>
 
-  <dt>Q: J’exige que vous réalisiez mon site en PHP</dt>
-  <dd>R: Non.</dd>
+  <dt>Q: J’<ins>exige</ins> que vous réalisiez mon site en <abbr title="Insérez votre langage préféré ici"><code>(.*)</code></abbr>.</dt>
+  <dd>R: On souhaite rester totalement maîtres du choix des technologies que nous mettons en œuvre pour réaliser votre projet.</dd>
 
   <dt>Q: Je voudrais améliorer les performances de mon application <small>qu'on a du mal à maintenir d'ailleurs</small></dt>
   <dd>R: Sans problème, on va d’abord regarder le code pour voir s’il n’y a pas des optimisations à faire à ce niveau, puis éventuellement on vous propose un ou plusieurs ateliers techniques en suivant pour épauler vos équipes.</dd>
@@ -70,7 +70,7 @@ D’une façon générale, nous aspirons à établir des rapports de collaborati
   </dd>
 
   <dt>Q: Proposez-vous de la Tierce Maintenance Applicative ?</dt>
-  <dd>R: Rarement, pour ainsi dire jamais. Nous pouvons éventuellement reprendre un existant pour le faire évoluer, mais cette décision est avant tout aliénée à une étude de code préalable dans tous les cas.</dd>
+  <dd>R: Rarement, pour ainsi dire jamais. On peut éventuellement reprendre un existant pour le faire évoluer, mais cette décision est avant tout aliénée à une étude de code préalable dans tous les cas.</dd>
 
   <dt>Q: Pouvez-vous m’envoyer un CV au format Word ? <small>que je puisse enlever votre logo et mettre le mien à la place <small>et rajouter que vous faites du PHP</small></small></dt>
   <dd>R: Non.</dd>
